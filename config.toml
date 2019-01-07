@@ -1,4 +1,4 @@
-baseURL = "http://chrispanag.com/"
+baseURL = "https://chrispanag.com/"
 languageCode = "en-us"
 title = "Christos Panagiotakopoulos"
 theme = "coder-portfolio"
