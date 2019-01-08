@@ -25,12 +25,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://chrispanag.com/projects/</guid>
-      <description>Athens Bus Chatbot Πότε έρχεται το λεωφορείο μου;
+      <description>Personal Projects  Athens Bus Chatbot Πότε έρχεται το λεωφορείο μου;
 A Facebook Chatbot helping over 20.000 people per week in Athens, Greece with their daily commute.
+It was the first Greek chatbot and it&amp;rsquo;s now the biggest in terms of usage and unique user count in Greece.
 Check out more on the Facebook page, or talk to it directly (only in greek for now 😢)
-    EBONy the Easy BOt Node Framework
-A module-based NodeJS framework for easy and painless development of Facebook Chatbots.
-Check out more on Github or on npm.</description>
+    EBONy the Easy BOt Node Framework</description>
     </item>
     
   </channel>
