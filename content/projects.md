@@ -15,7 +15,7 @@ A Facebook Chatbot helping over 20.000 people per week in Athens, Greece with th
 
 It was the first Greek chatbot and it's now the biggest in terms of usage and unique user count in Greece.
 
-Check out more on [the Facebook page](https://facebook.com/athensbus), or [talk to it](https://m.me/athensbus) directly (only in greek for now 😢)
+Check out more on [the Facebook page](https://facebook.com/athensbus), or [talk to it](https://m.me/athensbus) directly (only in greek for now 😢).
 {{% /portfolio %}}
 
 ___
