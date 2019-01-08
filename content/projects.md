@@ -35,9 +35,10 @@ ___
 
 ## Projects @ ENNEAS
 
-ENNEAS is a greek tech company focusing on exciting, new technologies such as **Chatbots** and **AR/VR**. You can check out more at [enneas.gr](https://enneas.gr). 
+ENNEAS is a greek tech company focusing on exciting, new technologies such as **Chatbots** and **AR/VR**.
+You can check out more at [enneas.gr](https://enneas.gr).
 
-At ENNEAS I'm leading the Chatbots software development team, and I'm also overseeing most of our technical projects. 
+At ENNEAS I'm leading the Chatbots software development team, and I'm also overseeing most of our technical projects.
 
 **Some of the most noteworthy projects I oversaw at ENNEAS are:**
 
