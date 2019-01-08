@@ -17,7 +17,7 @@ pygmentsUseClasses = true # new add
     author = "Christos Panagiotakopoulos" # Author's name.
     info = "Back-end Engineer | Chatbots Developer" # Author's job title or info.
     description = "Christos' personal website" # Site description.
-    keywords = "blog,developer,personal,chatbots,engineer,backend" # Site keywords.
+    keywords = "blog,developer,personal,chatbots,engineer,backend,frontend,facebook,bots,ebony,ebony-framework,node,nodejs,javascript,typescript,greece,athens" # Site keywords.
     
     avatarurl = "images/avatar.jpg" # Contain the path of the optional avatar in the static folder.
 
