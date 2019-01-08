@@ -20,6 +20,18 @@
     </item>
     
     <item>
+      <title>Lectures</title>
+      <link>https://chrispanag.com/lectures/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrispanag.com/lectures/</guid>
+      <description>  Speech and Workshop about Chatbots in Xanthi March 2018
+In Xanthi, I conducted in cooperation with EESTEC LC Xanthi, a two-day workshop about chatbots to 12 software engineering students. Before the workshop, I delivered a speech about the state of the chatbot technology nowadays and what is happening in Greece around it.
+Related links (in Greek):
+ Reference in EESTEC LC Xanthi&amp;rsquo;s website Reference in local press Slides     </description>
+    </item>
+    
+    <item>
       <title>Projects</title>
       <link>https://chrispanag.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -28,7 +40,7 @@
       <description>Personal Projects  Athens Bus Chatbot Πότε έρχεται το λεωφορείο μου;
 A Facebook Chatbot helping over 20.000 people per week in Athens, Greece with their daily commute.
 It was the first Greek chatbot and it&amp;rsquo;s now the biggest in terms of usage and unique user count in Greece.
-Check out more on the Facebook page, or talk to it directly (only in greek for now 😢)
+Check out more on the Facebook page, or talk to it directly (only in greek for now 😢).
     EBONy the Easy BOt Node Framework</description>
     </item>
     
