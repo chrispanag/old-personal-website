@@ -21,13 +21,13 @@ pygmentsUseClasses = true # new add
     
     avatarurl = "images/avatar.jpg" # Contain the path of the optional avatar in the static folder.
 
-    footercontent = "Copyright Christos Panagiotakopoulos" # Add footer content
+    footercontent = "Copyright© Christos Panagiotakopoulos" # Add footer content
     fixedbarContent = "Do you want to contact me privately? → " # Add fixedbar content
     fixedbarContentAfter = "Send me an email at chrispanag@gmail.com ;)" # Add fixedbar content after click
 
     # Whether you want to hide copyright and credits in the footer.
-    hideCredits = false
-    hideCopyright = false
+    hideCredits = true
+    hideCopyright = true
 
     # Custom CSS
     custom_css = [
@@ -40,7 +40,7 @@ pygmentsUseClasses = true # new add
     # RTL support
     rtl = false
 
-    # snsShare = true # new add
+    snsShare = false # new add
 
     thumbnail = "images/tn.png" # default sns thumbnail
 
@@ -67,6 +67,7 @@ pygmentsUseClasses = true # new add
     name = "Lectures"
     weight = 2
     url  = "lectures"
+
 #[[menu.main]]
 #    name = "About"
 #    weight = 2
