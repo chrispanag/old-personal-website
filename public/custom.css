@@ -1,0 +1,7 @@
+hr {
+    margin: 5%;
+}
+
+.portfolio-image > img {
+    max-width: 70%;
+}
