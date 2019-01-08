@@ -7,7 +7,7 @@ description = "projects"
 {{% portfolio image="/images/athensbus.png" alt="AthensBus Logo" %}}
 
 ## Athens Bus Chatbot
-"Πότε έρχεται το λεωφορείο μου"
+**Πότε έρχεται το λεωφορείο μου;**
 
 A Facebook Chatbot helping over 20.000 people per week in Athens, Greece with their daily commute.
 
@@ -18,12 +18,15 @@ ___
 
 {{% portfolio image="/images/bot-logo.png" alt="AthensBus Logo" %}}
 
-## EBONy : the Easy BOt Node Framework
-A module based NodeJS framework for easy and painless development of Facebook Chatbots.
+## EBONy
+**the Easy BOt Node Framework**
 
-Check out more on [Github](https://github.com/chrispanag/ebony).
+A module-based NodeJS framework for easy and painless development of Facebook Chatbots.
+
+Check out more on [Github](https://github.com/chrispanag/ebony) or on [npm](https://www.npmjs.com/package/ebony-framework).
 
 {{% /portfolio %}}
 
-___
+
+You can see more of my projects on my [**Github profile**](https://github.com/chrispanag).
 
