@@ -1,7 +1,7 @@
 baseURL = "https://chrispanag.com/"
 languageCode = "en-us"
 title = "Christos Panagiotakopoulos"
-theme = "coder-portfolio"
+theme = ["base-theme", "coder-portfolio"]
 defaultcontentlanguage  = "en"
 
 paginate = 20 # Default number of pages per page in pagination.
@@ -46,6 +46,7 @@ pygmentsUseClasses = true # new add
 
     # Multilanguage mode
     langseparator = "|" # Separates menus from language selectors when site is multilingual.
+    googleAnalytics = "UA-63248109-4"
 
 # Social links
 [[params.social]]
@@ -76,5 +77,3 @@ pygmentsUseClasses = true # new add
 #    name = "About"
 #    weight = 2
 #    url = "about"
-
-googleAnalytics = "UA-63248109-4"
