@@ -76,3 +76,5 @@ pygmentsUseClasses = true # new add
 #    name = "About"
 #    weight = 2
 #    url = "about"
+
+googleAnalytics = "UA-63248109-4"
