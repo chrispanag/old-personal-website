@@ -72,6 +72,10 @@ googleAnalytics = "UA-63248109-4"
     name = "Lectures"
     weight = 2
     url  = "lectures"
+[[menu.main]]
+    name = "Open Source"
+    weight = 3
+    url  = "open-source"
 
 #[[menu.main]]
 #    name = "About"
