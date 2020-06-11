@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Christos Panagiotakopoulos</title>
@@ -9,6 +9,16 @@
     
 	<atom:link href="https://chrispanag.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title></title>
+      <link>https://chrispanag.com/athens-bus-privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://chrispanag.com/athens-bus-privacy-policy/</guid>
+      <description>Transportation Info Athens Application Privacy Statement
+This privacy statement (“Privacy Statement”) applies to the treatment of personally identifiable information submitted by, or otherwise obtained from, you in connection with the associated application (“Application”). The Application is provided by Enneas (and may be provided by Enneas on behalf of a Enneas licensor or partner (“Application Partner”). By using or otherwise accessing the Application, you acknowledge that you accept the practices and policies outlined in this Privacy Statement.</description>
+    </item>
     
     <item>
       <title>About Me :)</title>
@@ -38,7 +48,7 @@ Related links (in Greek):
       
       <guid>https://chrispanag.com/open-source/</guid>
       <description>A list of all my open-source contributions
- Ebony Framework:  Github npm  Greek Name Klitiki  Github npm  @types/ftps  npm Github - DefinitelyTyped   </description>
+ Ebony Framework:  Github npm   Greek Name Klitiki  Github npm   @types/ftps  npm Github - DefinitelyTyped    </description>
     </item>
     
     <item>
@@ -52,7 +62,7 @@ A Facebook Chatbot helping over 50.000 people per week, in Athens, Greece with t
 It was the first Greek chatbot and it&amp;rsquo;s now the biggest in terms of usage and unique user count in Greece.
 Check out more on the Facebook page, or talk to it directly (only in greek for now 😢).
 References:
- &amp;ldquo;«Πότε έρχεται το λεωφορείο;»: 22χρονος έφτιαξε εφαρμογή που θα λατρέψετε&amp;rdquo; - iefimerida.</description>
+ &amp;quot;«Πότε έρχεται το λεωφορείο;»: 22χρονος έφτιαξε εφαρμογή που θα λατρέψετε&amp;rdquo; - iefimerida.</description>
     </item>
     
   </channel>
